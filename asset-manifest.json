@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.34f7d6db.css",
-    "main.js": "/static/js/main.f01d0e16.js",
+    "main.js": "/static/js/main.315a8156.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -12,6 +12,7 @@
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Anthony_Araki.pdf": "/static/media/Anthony_Araki.9307c2438558a9ae398e.pdf",
+    "static/media/nuelynx.png": "/static/media/nuelynx.4b1d410feb1e91549cee.png",
     "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/logo.png": "/static/media/logo.0f6ec9c09945191c2029.png",
@@ -19,12 +20,12 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.34f7d6db.css.map": "/static/css/main.34f7d6db.css.map",
-    "main.f01d0e16.js.map": "/static/js/main.f01d0e16.js.map",
+    "main.315a8156.js.map": "/static/js/main.315a8156.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34f7d6db.css",
-    "static/js/main.f01d0e16.js"
+    "static/js/main.315a8156.js"
   ]
 }
